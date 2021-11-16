@@ -13,3 +13,7 @@
 //git remote add origin https://github.com/YuhongLiuCA/MyFirstRepo.git
 //git branch -M main
 //git push -u origin main
+//git push basic-git main
+//git pull basic-git main
+//git branch working
+//git checkout
